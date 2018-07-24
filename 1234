@@ -20,12 +20,12 @@
   },
   {
     "id": 200,
-    "name": "San juan surf",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/san-juan-surf-resort.jpg",
+    "name": "Tapuakan River Pugo",
+    "imageUrl": "http://www.livibautista.com/wp-content/uploads/2015/12/921218_1078835592156008_3450756882156457203_o-1050x591.jpg",
     "price": 1500,
     "priceCurrency": "PHP",
-    "lat": 16.6565645,
-    "lng": 120.3203105
+    "lat": 16.320920,
+    "lng": 120.481472
   },
   {
     "id": 205,
