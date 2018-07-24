@@ -56,11 +56,11 @@
   },
   {
     "id": 888,
-    "name": "pugad",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/wpid-img_20141116_0803572.jpg",
+    "name": "Baluarte Luna",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/20/86/eb/photo0jpg.jpg",
     "price": 777,
     "priceCurrency": "PHP",
-    "lat": 16.336676, 
-    "lng": 120.478836
+    "lat": 16.856794, 
+    "lng": 120.372878
   }
 ]
