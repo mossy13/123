@@ -40,7 +40,7 @@
     "id": 211,
     "name": "Ma-Cho Temple",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-MaChoTemplejf501.jpg",
-    "price": 0,
+    "price": 10,
     "priceCurrency": "FREE",
     "lat": 16.6213174,
     "lng": 120.3173369
@@ -49,7 +49,7 @@
     "id": 446,
     "name": "City hall",
     "imageUrl": "https://2.bp.blogspot.com/-EMPUjcF3Xw4/V-6UogECNsI/AAAAAAAAIK0/o6UQocZ-0BQXjNPPOzuxk5A2aiGlJp7oQCLcB/s1600/IMG_3224.JPG",
-    "price": 90,
+    "price": 20,
     "priceCurrency": "PHP",
     "lat":16.616719,
     "lng": 120.317290
@@ -58,7 +58,7 @@
     "id": 888,
     "name": "Bangar municipal hall",
     "imageUrl": "http://3.bp.blogspot.com/-U1oHynUlQvY/VWybn5mCHjI/AAAAAAAAHJg/HsYREThy6ps/s1600/z3.JPG",
-    "price": 777,
+    "price": 50,
     "priceCurrency": "PHP",
     "lat": 16.893890, 
     "lng": 120.422800
