@@ -47,12 +47,12 @@
   },
   {
     "id": 446,
-    "name": "Ma haus",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-Stick_Figure.svg.png",
+    "name": "City hall",
+    "imageUrl": "https://2.bp.blogspot.com/-EMPUjcF3Xw4/V-6UogECNsI/AAAAAAAAIK0/o6UQocZ-0BQXjNPPOzuxk5A2aiGlJp7oQCLcB/s1600/IMG_3224.JPG",
     "price": 90,
     "priceCurrency": "PHP",
-    "lat": 16.5253231,
-    "lng": 120.3404171
+    "lat":16.616719,
+    "lng": 120.317290
   },
   {
     "id": 888,
