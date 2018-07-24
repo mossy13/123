@@ -29,12 +29,12 @@
   },
   {
     "id": 205,
-    "name": "CSI mall",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/46893631.jpg",
+    "name": "Manna mall",
+    "imageUrl": "https://igx.4sqi.net/img/general/600x600/69785255_cTU5HYxy0fLoH2_3CGQweO5MsFeNY9CPrZPZF6YQHgQ.jpg",
     "price": 20,
     "priceCurrency": "PHP",
-    "lat": 16.6290318,
-    "lng": 120.3233058
+    "lat":16.626620,
+    "lng": 120.319470
   },
   {
     "id": 211,
