@@ -1,0 +1,66 @@
+
+[
+  {
+    "id": 333,
+    "name": "Bahay na stones",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/0618-bahay-na-bato-9-620x417.jpg",
+     "price": 150,
+    "priceCurrency": "PHP",
+    "lat": 16.847270,
+    "lng": 120.351765
+  },
+  {
+    "id": 444,
+    "name": "Marrand",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/s0.jpg",
+    "price": 150,
+    "priceCurrency": "PHP",
+    "lat": 16.543952, 
+    "lng": 120.324305
+  },
+  {
+    "id": 200,
+    "name": "San juan surf",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/san-juan-surf-resort.jpg",
+    "price": 1500,
+    "priceCurrency": "PHP",
+    "lat": 16.6565645,
+    "lng": 120.3203105
+  },
+  {
+    "id": 205,
+    "name": "CSI mall",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/46893631.jpg",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.6290318,
+    "lng": 120.3233058
+  },
+  {
+    "id": 211,
+    "name": "Ma-Cho Temple",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-MaChoTemplejf501.jpg",
+    "price": 0,
+    "priceCurrency": "FREE",
+    "lat": 16.6213174,
+    "lng": 120.3173369
+  },
+  {
+    "id": 446,
+    "name": "Ma haus",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-Stick_Figure.svg.png",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.5253231,
+    "lng": 120.3404171
+  },
+  {
+    "id": 888,
+    "name": "pugad",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/wpid-img_20141116_0803572.jpg",
+    "price": 777,
+    "priceCurrency": "PHP",
+    "lat": 16.336676, 
+    "lng": 120.478836
+  }
+]
