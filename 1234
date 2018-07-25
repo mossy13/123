@@ -20,12 +20,12 @@
   },
   {
     "id": 200,
-    "name": "Tapuakan River Pugo",
-    "imageUrl": "http://www.livibautista.com/wp-content/uploads/2015/12/921218_1078835592156008_3450756882156457203_o-1050x591.jpg",
+    "name": "Calle Crisologo Vigan",
+    "imageUrl": "https://image.vigattin.com/box/optimize/84/619_55843793222804967.jpg",
     "price": 1500,
     "priceCurrency": "PHP",
-    "lat": 16.320920,
-    "lng": 120.481472
+    "lat": 17.569890,
+    "lng": 120.388335
   },
   {
     "id": 205,
