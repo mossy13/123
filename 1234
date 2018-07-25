@@ -64,3 +64,21 @@
     "lng": 120.422800
   }
 ]
+  {
+    "id": 888,
+    "name": "Bangar municipal hall",
+    "imageUrl": "http://3.bp.blogspot.com/-U1oHynUlQvY/VWybn5mCHjI/AAAAAAAAHJg/HsYREThy6ps/s1600/z3.JPG",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.893890, 
+    "lng": 120.422800
+  }
+    {
+    "id": 888,
+    "name": "Bangar municipal hall",
+    "imageUrl": "http://3.bp.blogspot.com/-U1oHynUlQvY/VWybn5mCHjI/AAAAAAAAHJg/HsYREThy6ps/s1600/z3.JPG",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.893890, 
+    "lng": 120.422800
+  }
