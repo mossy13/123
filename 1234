@@ -54,5 +54,15 @@
     "lat":16.044005,
     "lng": 120.488233
   },
+  {
+    "id": 446,
+    "name": "Basilica of our Lady of Manaoag",
+    "imageUrl": "https://2.bp.blogspot.com/-AXVFpPc-jbY/VzguyEa3dlI/AAAAAAAASfE/CeTZ59YTAP8S2-9072rQPzB0YMGHD46vQCKgB/s1600/z86.JPG",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat":16.044005,
+    "lng": 120.488233
+  },
+ 
  
  
