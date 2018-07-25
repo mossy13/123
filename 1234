@@ -20,12 +20,12 @@
   },
   {
     "id": 200,
-    "name": "Calle Crisologo Vigan",
-    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2017/02/IMG_0314.jpg",
+    "name": "Bantay bell tower",
+    "imageUrl": "https://c1.staticflickr.com/6/5162/5290457096_24cf36ced8_b.jpg",
     "price": 1500,
     "priceCurrency": "PHP",
-    "lat": 17.569890,
-    "lng": 120.388335
+    "lat": 17.582165,
+    "lng": 120.391602
   },
   {
     "id": 205,
