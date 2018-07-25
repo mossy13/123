@@ -2,12 +2,12 @@
 [
   {
     "id": 333,
-    "name": "Mosuela Residence",
-    "imageUrl": "https://i.ytimg.com/vi/LeVWEeZLehQ/maxresdefault.jpg",
+    "name": "Luneta park",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rizal_Park_Front_View.jpg/1200px-Rizal_Park_Front_View.jpg",
      "price": 150,
     "priceCurrency": "PHP",
-    "lat": 16.898169,
-    "lng": 120.428947
+    "lat": 14.582419,
+    "lng": 120.978176
   },
   {
     "id": 444,
