@@ -72,14 +72,14 @@
     "lat":9.829702,
     "lng":124.139677
   },
-    {
+  {
     "id": 446,
-    "name": "Mt.Makiling",
-    "imageUrl": "http://www.juan-day.com/wp-content/uploads/2014/07/Mount-Makiling.jpg",
+    "name": "Magellan's Park",
+    "imageUrl": "http://travelogphilippines.com/wordpress/wp-content/uploads/2011/09/magellans-cross-dome-cebu2.png",
     "price": 50,
     "priceCurrency": "PHP",
-    "lat":14.136377,
-    "lng":121.194435
+    "lat":10.291962,
+    "lng":123.900950
   }
   ]
  
