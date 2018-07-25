@@ -11,12 +11,12 @@
   },
   {
     "id": 444,
-    "name": "Palawan underground river",
-    "imageUrl": "http://pageone.ph/wp-content/uploads/2017/09/0904-PageOne-underground-river.png",
+    "name": "Boracay",
+    "imageUrl": "https://lonelyplanetimages.imgix.net/mastheads/GettyImages-483535221_super.jpg?sharp=10&vib=20&w=1200",
     "price": 150,
     "priceCurrency": "PHP",
-    "lat":10.192535, 
-    "lng":118.926580
+    "lat":11.967367, 
+    "lng":121.924827
   },
   {
     "id": 200,
