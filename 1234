@@ -71,6 +71,15 @@
     "priceCurrency": "PHP",
     "lat":9.829702,
     "lng":124.139677
+  },
+    {
+    "id": 446,
+    "name": "Mt.Makiling",
+    "imageUrl": "http://www.juan-day.com/wp-content/uploads/2014/07/Mount-Makiling.jpg",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat":14.136377,
+    "lng":121.194435
   }
   ]
  
