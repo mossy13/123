@@ -11,12 +11,12 @@
   },
   {
     "id": 444,
-    "name": "provincial capitol of La Union",
-    "imageUrl": "https://1.bp.blogspot.com/-DpzyMfyeaWw/V-6WuJgFzkI/AAAAAAAAILA/bnZ5MHe4dXYpLk0cy0etRP3Gl09-STfSgCLcB/s1600/IMG_3245.JPG",
+    "name": "Palawan underground river",
+    "imageUrl": "http://pageone.ph/wp-content/uploads/2017/09/0904-PageOne-underground-river.png",
     "price": 150,
     "priceCurrency": "PHP",
-    "lat":16.613014, 
-    "lng": 120.318508
+    "lat":10.192535, 
+    "lng":118.926580
   },
   {
     "id": 200,
